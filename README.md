@@ -4,8 +4,8 @@ This eCommerce web application leverages React and its context API to manage sta
 
 ## Pages 👨‍💻
 
-![products Page](frontend/screenshots/01.png?raw=true)
-![Card Page](frontend/screenshots/02.png?raw=true)
+![products Page](screenshots/01.png?raw=true)
+![Card Page](screenshots/02.png?raw=true)
 
 ## ⭐ Features
 
